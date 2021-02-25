@@ -1,1 +1,11 @@
 # std module for the roku language
+# prototype code for the roku language 
+module std
+
+require encodings
+
+
+class std
+  def __std()
+  end
+end
