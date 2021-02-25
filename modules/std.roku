@@ -4,7 +4,6 @@ module std
 
 require encodings
 
-
 class std
   def __std()
   end
