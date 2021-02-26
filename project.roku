@@ -1,7 +1,7 @@
 # Executable architecture
 TARGET_ARCH=x64
 
-# Source Paths
+# Source Path
 SRC_PATH=sources
 
 # Entry point
