@@ -1,10 +1,10 @@
 # std module for the roku language
 # prototype code for the roku language 
+require encodings
 module std
 
-require encodings
-
 class std
-  def __std()
+  def std(argv) is Int
+    writeline "@Nil"
   end
 end
