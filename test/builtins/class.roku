@@ -1,0 +1,7 @@
+module Class
+  class test
+    def main
+      'Hello'.puts()
+    end
+  end
+end
