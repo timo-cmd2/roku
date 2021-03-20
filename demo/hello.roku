@@ -1,1 +1,3 @@
-writeline "Hello, world!"
+require 'system:base'
+
+'Hello, world'.puts()
