@@ -2,5 +2,5 @@
 (define-module dojo
   (:export dojo/main))
 
-(define-function main(argv)
+(define main(argv)
   (display "test"))
