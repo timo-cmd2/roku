@@ -1,3 +1,1 @@
-require 'system:base'
-
-'Hello, world'.puts()
+(print "Hello, from Roku!")
