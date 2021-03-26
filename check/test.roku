@@ -1,7 +1,1 @@
-# simple unittest framework in roku
-require std
-require io
 
-def main(args) is Int
-  var showargs = False
-end
