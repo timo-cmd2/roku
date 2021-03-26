@@ -2,5 +2,9 @@
 (define-module dojo
   (:export dojo/main))
 
+(define VERSION_MINOR 1)
+(define VERSION_MAJOR 1)
+(define VERSION_PATCH 0)
+
 (define main(argv)
   (display "test"))
