@@ -1,0 +1,6 @@
+;; The dojo package manager 
+(define-module dojo
+  (:export dojo/main))
+
+(define-function main(argv)
+  (display "test"))
