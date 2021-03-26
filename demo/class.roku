@@ -1,12 +1,1 @@
-# simple showcase of Roku's typesystem and handling
-# object types. 
 
-class Object
-  def has_instance_var?(name) is Bool
-    @type.instance_vars.map.includes? name
-  end
-end
-
-person = Person.new "John", 30
-person.has_instance_var?("name")
-person.has_instance_var?("birthday")
