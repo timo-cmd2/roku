@@ -1,17 +1,1 @@
-# roku package manager
-# requires git installed
-require string
-require std
-require io
-require http
 
-module pkg.main
-
-class Main is Int
-  def main(args) is Int
-    var mod = args.2
-    if args.string = "-i"
-      system.exec("git clone" + mod)
-    end
-  end
-end
