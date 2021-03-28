@@ -5,5 +5,11 @@ module Core
       @evaluator       = Evaluator.new( self, debug_evaluator )
       @debug_printer   = debug_printer
     end
+    
+    def self.version
+      "0.0.1"
+    end
+
+    attr_reader :evaluator
   end
 end
