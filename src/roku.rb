@@ -4,3 +4,4 @@
 require 'stringio'
 require 'digest/sha1'
 require 'pp'
+require 'core/core.rb'
