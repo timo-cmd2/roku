@@ -11,5 +11,8 @@ module Core
     end
 
     attr_reader :evaluator
+    
+    def loadInitFile( use_compiled = true )
+    end
   end
 end
