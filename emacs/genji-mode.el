@@ -1,0 +1,2 @@
+(require 'comint)
+(require 'cmuscheme)
