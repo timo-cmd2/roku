@@ -1,3 +1,3 @@
-# The Genji programming language
+# The Genshi programming language
 
-The Genji language: A functional and imperative language with a touch of Lisp. Inspired by Hy
+The Genshi language: A functional and imperative language with a touch of Lisp. Inspired by Hy
