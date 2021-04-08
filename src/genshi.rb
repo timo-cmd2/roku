@@ -30,7 +30,7 @@
 #   NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 #   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
-#  'genji.rb' - The language core of Genji
+#  'genshi.rb' - The language core of Genshi
 require 'stringio'
 require 'digest/sha1'
 require 'pp'
