@@ -34,4 +34,5 @@
 require 'stringio'
 require 'digest/sha1'
 require 'pp'
-require 'core/core.rb'
+require 'genshi/core/core.rb'
+require 'genshi/core/evaluator.rb'
