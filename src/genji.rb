@@ -30,7 +30,7 @@
 #   NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 #   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
-#  'roku.rb' - The language core of Roku
+#  'genji.rb' - The language core of Genji
 require 'stringio'
 require 'digest/sha1'
 require 'pp'
