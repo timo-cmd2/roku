@@ -1,1 +1,2 @@
 *.gsh linguist-language=Scheme
+*.genshi linguist-language=Scheme
