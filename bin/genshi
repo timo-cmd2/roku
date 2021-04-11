@@ -1,0 +1,9 @@
+#!/usr/env/bin ruby
+
+def main()
+  if args.length != 2
+    puts "too few args"
+  end
+end
+
+# actual bincode to follow up soon
