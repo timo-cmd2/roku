@@ -2,6 +2,9 @@
 (define-module dojo
   (:export dojo/main))
 
+(:import-ruby "rake")
+(:import-ruby "bundler")
+
 (define VERSION_MINOR 1)
 (define VERSION_MAJOR 1)
 (define VERSION_PATCH 0)
