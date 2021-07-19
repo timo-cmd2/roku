@@ -1,3 +1,0 @@
-;; @description A tcp server module in Genshi
-;; @author Timo Sarkar <sartimo10@gmail.com
-(:import-ruby "tcpserver")
