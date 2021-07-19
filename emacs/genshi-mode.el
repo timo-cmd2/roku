@@ -1,7 +1,7 @@
 (require 'comint)
 (require 'cmuscheme)
 
-(defgroup genshi nil
+(defgroup sora nil
   :group 'scheme
-  :prefix "genshi-"
-  :link '(url-link "https://github.com/timo-cmd2/genshi"))
+  :prefix "sora-"
+  :link '(url-link "https://github.com/timo-cmd2/sora"))
