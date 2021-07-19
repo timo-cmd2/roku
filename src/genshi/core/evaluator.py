@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env py
 # -*- encoding: utf-8 -*-
 #
 #   Copyright (c) 2021 Timo Sarkar <sartimo10@gmail.com>
